@@ -2,63 +2,63 @@
  { 
 	"name":"FOS LIGHTNING",
 	"price":3333,
-	"Product Details":{
-			"Type": "Floor Lamp",
-	                "Base material": "Steel",
-			"Base colour": "Brown"},
-	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],	
+	"product_details":{
+			"type": "Floor Lamp",
+	                "base_material": "Steel",
+			"base_colour": "Brown"},
+	"material_care":["Steel","Wipe with a clean, dry cloth when needed"],	
 	"img_small":["img/111.jpg","img/112.jpg"],
 	"img_large":"img/1.jpg"
 },
  { 
 	"name":"JAINSONS EMPORIO",
 	"price":2000,
-	"Product Details":{
-		"Type": "Floor lamp with shade",
-		"Base material": "Wood and linen",
-		"Base colour": "Brown"
+	"product_details":{
+		"type": "Floor lamp with shade",
+		"base_material": "Wood and linen",
+		"base_colour": "Brown"
 			   },
-	"Material & Care":["Wood and linen","Wipe with a clean, dry cloth when needed"],	
+	"material_care":["Wood and linen","Wipe with a clean, dry cloth when needed"],	
 	"img_small":["img/211.jpg","img/212.jpg"],
 	"img_large":"img/2.jpg"
  },
 { 
 	"name":"The Light Store",
 	"price":4000,
-	"Product Details":{
-			"Type": "Light Storage",
-	                "Base material": "Steel and Plastic and Linen",
-			"Base colour": "Black"},
-	"Material & Care":["Steel and Plastic","Wipe with a clean, dry cloth when needed"],		
+	"product_details":{
+			"type": "Light Storage",
+	                "base_material": "Steel and Plastic and Linen",
+			"base_colour": "Black"},
+	"material_care":["Steel and Plastic","Wipe with a clean, dry cloth when needed"],		
 },
 { 
 	"name":"Sylvn Studio",
 	"price":5573,
-	"Product Details":{
-			"Type": "Floor Lamp",
-	                "Base material": "Steel",
-			"Base colour": "Brown"},
+	"product_details":{
+			"type": "Floor Lamp",
+	                "base_material": "Steel",
+			"base_colour": "Brown"},
 									
-	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],		
+	"material_care":["Steel","Wipe with a clean, dry cloth when needed"],		
 },
 { 
 	"name":"Wooden Table Lamp",
 	"price":4000,
-	"Product Details":{
-			"Type": "Wooden Table Lamp",
-	                "Base material": "Steel",
-			"Base colour": "Brown"},
+	"product_details":{
+			"type": "Wooden Table Lamp",
+	                "base_material": "Steel",
+			"base_colour": "Brown"},
 								
-	"Material & Care":["Wooden","Wipe with a clean, dry cloth when needed"],		
+	"material_care":["Wooden","Wipe with a clean, dry cloth when needed"],		
 },
 { 
 	"name":"Double Light Lamp",
 	"price":7000,
-	"Product Details":{
-			"Type": "Floor Lamp",
-	                "Base material": "Steel and Glass",
-			"Base colour": "Brown"},
+	"product_details":{
+			"type": "Floor Lamp",
+	                "base_material": "Steel and Glass",
+			"base _colour": "Brown"},
 									
-	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],		
+	"material_care":["Steel","Wipe with a clean, dry cloth when needed"],		
 }
 ]
