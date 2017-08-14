@@ -2,9 +2,9 @@
 	"name":"JAINSONS EMPORIO",
 	"price":2000,
 	"Product Details":{
-		{"Type": "Floor lamp with shade"},
-		{"Base material": "Wood and linen"},
-		{"Base colour": "Brown"}
+		"Type": "Floor lamp with shade",
+		"Base material": "Wood and linen",
+		"Base colour": "Brown"
 			   },
 	"Material & Care":["Wood and linen","Wipe with a clean, dry cloth when needed"],	
 	"img_small":["img/211.jpg","img/212.jpg"],
