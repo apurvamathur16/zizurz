@@ -1,10 +1,10 @@
 { 
 	"name":"Double Light Lamp",
 	"price":7000,
-	"Product Details":[
-					"Type": "Floor Lamp",
+	"Product Details":{
+			"Type": "Floor Lamp",
 	                "Base material": "Steel and Glass",
-					"Base colour": "Brown",
-										],
+			"Base colour": "Brown"},
+									
 	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],		
 }
