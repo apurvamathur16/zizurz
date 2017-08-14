@@ -1,4 +1,15 @@
-[   
+[
+ { 
+	"name":"FOS LIGHTNING",
+	"price":3333,
+	"Product Details":{
+			"Type": "Floor Lamp",
+	                "Base material": "Steel",
+			"Base colour": "Brown"},
+	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],	
+	"img_small":["img/111.jpg","img/112.jpg"],
+	"img_large":"img/1.jpg"
+},
  { 
 	"name":"JAINSONS EMPORIO",
 	"price":2000,
@@ -11,17 +22,43 @@
 	"img_small":["img/211.jpg","img/212.jpg"],
 	"img_large":"img/2.jpg"
  },
-
-
-
-
-
-
-
-
-
-
-
-
-
+{ 
+	"name":"The Light Store",
+	"price":4000,
+	"Product Details":{
+			"Type": "Light Storage",
+	                "Base material": "Steel and Plastic and Linen",
+			"Base colour": "Black"},
+	"Material & Care":["Steel and Plastic","Wipe with a clean, dry cloth when needed"],		
+},
+{ 
+	"name":"Sylvn Studio",
+	"price":5573,
+	"Product Details":{
+			"Type": "Floor Lamp",
+	                "Base material": "Steel",
+			"Base colour": "Brown"},
+									
+	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],		
+},
+{ 
+	"name":"Wooden Table Lamp",
+	"price":4000,
+	"Product Details":{
+			"Type": "Wooden Table Lamp",
+	                "Base material": "Steel",
+			"Base colour": "Brown"},
+								
+	"Material & Care":["Wooden","Wipe with a clean, dry cloth when needed"],		
+},
+{ 
+	"name":"Double Light Lamp",
+	"price":7000,
+	"Product Details":{
+			"Type": "Floor Lamp",
+	                "Base material": "Steel and Glass",
+			"Base colour": "Brown"},
+									
+	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],		
+}
 ]
