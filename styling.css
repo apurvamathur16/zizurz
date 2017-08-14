@@ -49,8 +49,35 @@ html,p,h1,h{
 		border:1px solid #000035;
 		border-radius:5px;
 		margin:7px;
-}      	.menu li a{
+}      ]
+.menu li a{
 		text-decoration:none;
 		color:#FFF;
+		}
+.description{
+		left:200px;
+		position:absolute;
+		margin-top:80px;
+	}
+	.thumb{
+		width:80px;
+		float:left;
+		left:200px;
+		}
+	.image1 {
+		width:400px;
+		float:left;
+		height:400px;
+		}
+	.image1 img{
+
+		width:300px;
+		height:400px;
+		}
+	#info{
+		
+		width:400px;
+		float:left;
+
 		}
 
