@@ -1,0 +1,10 @@
+{ 
+	"name":"Sylvn Studio",
+	"price":5573,
+	"Product Details":[
+					"Type": "Floor Lamp",
+	                "Base material": "Steel",
+					"Base colour": "Brown",
+										],
+	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],		
+}

@@ -1,0 +1,10 @@
+{ 
+	"name":"Wooden Table Lamp",
+	"price":4000,
+	"Product Details":[
+					"Type": "Wooden Table Lamp",
+	                "Base material": "Steel",
+					"Base colour": "Brown",
+										],
+	"Material & Care":["Wooden","Wipe with a clean, dry cloth when needed"],		
+}
