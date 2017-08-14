@@ -6,7 +6,7 @@
 			"type": "Floor Lamp",
 	                "base_material": "Steel",
 			"base_colour": "Brown"},
-	"material_care":["Steel","Wipe with a clean, dry cloth when needed"],	
+	"material_care":["Steel","Wipe with a clean","dry cloth when needed"],	
 	"img_small":["img/111.jpg","img/112.jpg"],
 	"img_large":"img/1.jpg"
 },
@@ -18,7 +18,7 @@
 		"base_material": "Wood and linen",
 		"base_colour": "Brown"
 			   },
-	"material_care":["Wood and linen","Wipe with a clean, dry cloth when needed"],	
+	"material_care":["Wood and linen","Wipe with a clean","dry cloth when needed"],	
 	"img_small":["img/211.jpg","img/212.jpg"],
 	"img_large":"img/2.jpg"
  },
@@ -29,7 +29,7 @@
 			"type": "Light Storage",
 	                "base_material": "Steel and Plastic and Linen",
 			"base_colour": "Black"},
-	"material_care":["Steel and Plastic","Wipe with a clean, dry cloth when needed"],		
+	"material_care":["Steel and Plastic","Wipe with a clean","dry cloth when needed"],		
 },
 { 
 	"name":"Sylvn Studio",
@@ -39,7 +39,7 @@
 	                "base_material": "Steel",
 			"base_colour": "Brown"},
 									
-	"material_care":["Steel","Wipe with a clean, dry cloth when needed"],		
+	"material_care":["Steel","Wipe with a clean","dry cloth when needed"],		
 },
 { 
 	"name":"Wooden Table Lamp",
@@ -49,7 +49,7 @@
 	                "base_material": "Steel",
 			"base_colour": "Brown"},
 								
-	"material_care":["Wooden","Wipe with a clean, dry cloth when needed"],		
+	"material_care":["Wooden","Wipe with a clean","dry cloth when needed"],		
 },
 { 
 	"name":"Double Light Lamp",
@@ -59,6 +59,6 @@
 	                "base_material": "Steel and Glass",
 			"base _colour": "Brown"},
 									
-	"material_care":["Steel","Wipe with a clean, dry cloth when needed"],		
+	"material_care":["Steel","Wipe with a clean","dry cloth when needed"],		
 }
 ]
