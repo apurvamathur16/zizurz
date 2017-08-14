@@ -1,10 +1,10 @@
 { 
 	"name":"FOS LIGHTNING",
 	"price":3333,
-	"Product Details":[
+	"Product Details":{
 			"Type": "Floor Lamp",
 	                "Base material": "Steel",
-			"Base colour": "Brown",],
+			"Base colour": "Brown"},
 	"Material & Care":["Steel","Wipe with a clean, dry cloth when needed"],	
 	"img_small":["img/111.jpg","img/112.jpg"],
 	"img_large":"img/1.jpg"
