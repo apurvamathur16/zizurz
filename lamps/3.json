@@ -1,10 +1,9 @@
 { 
 	"name":"The Light Store",
 	"price":4000,
-	"Product Details":[
-					"Type": "Light Storage",
+	"Product Details":{
+			"Type": "Light Storage",
 	                "Base material": "Steel and Plastic and Linen",
-					"Base colour": "Black",
-										],
+			"Base colour": "Black"},
 	"Material & Care":["Steel and Plastic","Wipe with a clean, dry cloth when needed"],		
 }
