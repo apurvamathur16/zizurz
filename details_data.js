@@ -1,9 +1,44 @@
 function items(){
-
+        if(sessionStorage.one == undefined){
+		document.getElementById("one").value =0;
+	}
+	else {
+		document.getElementById("one").value =sessionStorage.one;
+	}
+	if(sessionStorage.two== undefined){
+		document.getElementById("two").value =0;
+	}
+	else {
+		document.getElementById("two").value =sessionStorage.two;
+	}
+	if(sessionStorage.three== undefined){
+		document.getElementById("three").value =0;
+	}
+	else {
+		document.getElementById("three").value =sessionStorage.three;
+	}
+	if(sessionStorage.four== undefined){
+		document.getElementById("four").value =0;
+	}
+	else {
+		document.getElementById("four").value =sessionStorage.four;
+	}
+	if(sessionStorage.five== undefined){
+		document.getElementById("five").value =0;
+	}
+	else {
+		document.getElementById("five").value =sessionStorage.five;
+	}
+	if(sessionStorage.six== undefined){
+		document.getElementById("six").value =0;
+	}
+	else {
+		document.getElementById("six").value =sessionStorage.six;
+	}
 	var request = new XMLHttpRequest();
 	request.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-        var data = JSON.parse(this.response);
+        if (this.readyState == 4 && this.status == 200) {
+        	var data = JSON.parse(this.response);
 		document.getElementById("des_1").innerHTML = data[0].name + "<br> Rs " + data[0].price;
 		document.getElementById("des_2").innerHTML = data[1].name + "<br> Rs " + data[1].price;
 		document.getElementById("des_3").innerHTML = data[2].name + "<br> Rs "  + data[2].price;
@@ -17,8 +52,8 @@ function items(){
 		document.getElementById("image5").src = data[4].img;
 		document.getElementById("image6").src = data[5].img;
 		
-    }
-  };
+       }
+    };
   request.open("GET", "https://raw.githubusercontent.com/apurvamathur16/zizurz/master/lamps/lamps.json", true);
   request.send();
 }
