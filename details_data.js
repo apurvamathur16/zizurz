@@ -75,7 +75,7 @@ function addCart(){
 					shopping_cart_data.push(data[4]);
 					quantity.push(sessionStorage.five);
 				}
-				if(sessionStorage.six >6){
+				if(sessionStorage.six >0){
 					shopping_cart_data.push(data[5]);
 					quantity.push(sessionStorage.six);
 				}
