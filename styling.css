@@ -89,10 +89,10 @@ html,p,h1,h{
 		margin:150px;
 	}
        #checkout:hover {
-		font-size:15px;
+		font-size:20px;
 		background-color:#36FFF1;
 	}
 	#clear_cart:hover {
-		font-size:15px;
+		font-size:20px;
 		background-color:#36FFF1;
 	}
