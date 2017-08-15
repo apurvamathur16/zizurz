@@ -88,3 +88,11 @@ html,p,h1,h{
 		font-size:50px;
 		margin:150px;
 	}
+       #checkout:hover {
+		font-size:15px;
+		background-color:#36FFF1;
+	}
+	#clear_cart:hover {
+		font-size:15px;
+		background-color:#36FFF1;
+	}
