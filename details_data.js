@@ -157,7 +157,7 @@ function addCart(){
   function fav(name) {
 	
     if (count==0) {
-     name.style.backgroundColor = "#FF0000";
+     name.style.backgroundColor = "#FFAEAE";
         count=1;
     }
     else{
